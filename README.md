@@ -33,6 +33,7 @@ Giờ làm việc:
 1. - [ ] Và các yêu cầu khác từ cấp trên
 
 ## II. Menu
+### Món ăn (DR)
 
 | Tên món| Giá |
 | ----------- | ----------- |
@@ -47,6 +48,39 @@ Giờ làm việc:
 | Mì xúc xích   | 20,000    |
 | Bento   | 10,000    |
 | Bánh pía   | 10,000    |
+
+### Phụ kiện (AC)
+
+| Tên phụ kiện  | Giá   |
+| ----------- | ----------- |
+| Deck box nhựa (80+)  | 40,000    |
+| Deck box nhựa (100+)  | 80,000    |
+| Deck box da  | 150,000    |
+| Sleeve (Đồng giá)   | 50,000    |
+| Album (Thường)   | 150,000    |
+| Album (Có dây kéo)   | 400,000    |
+
+### One Piece Card Game (OP)
+
+| Tên pack  | Giá   |
+| ----------- | ----------- |
+| Pack OP01 EN  | 150,000    |
+| Pack OP02 EN  | 150,000    |
+| Pack OP03 EN  | 150,000    |
+| Pack OP02 JP  | 80,000    |
+| Pack OP03 JP  | 80,000    |
+| ST03 Blue  | 500,000    |
+
+### Yu-Gi-Oh! Trading Card Game (YG)
+
+| Tên pack  | Giá   |
+| ----------- | ----------- |
+| Pack CYAC EN  | 100,000    |
+| Pack WISU EN  | 100,000    |
+| Pack BLMR EN  | 100,000    |
+| Box SDCS EN  | 350,000    |
+| Box GFP2 EN  | 600,000    |
+| Box LC01 EN  | 1,000,000    |
 
 ## III. Các thông tin thêm
 * Số gọi nước: 0909733099
