@@ -82,7 +82,18 @@ Giờ làm việc:
 | Box GFP2 EN  | 600,000    |
 | Box LC01 EN  | 1,000,000    |
 
-## III. Các thông tin thêm
+## III. Các ghi chú quan trọng
+
+### 1. Vấn đề đặt nước giải khát khi shop hết hàng:
+
+- Khi nào hết báo số lượng tồn kho trong shop cho " quản lý trực tiếp của nhân viên ca trực" (gọi tắt là **<Quản_lý>**) biết. **<Quản_lý>** sẽ nhắn số lượng nhập trong group chat để xác nhận nhập hàng và báo số lượng cụ thể cho đơn nhập.
+
+- Không tự ý gọi đặt khi chưa có TIN NHẮN xác nhận của **<Quản_lý>**.
+
+- Trong trường hợp nhân viên tự ý gọi đặt khi chưa có TIN NHẮN xác nhận của **<Quản_lý>** thì TỰ BỎ TIỀN TÚI ra trả.
+
+## IV. Các thông tin thêm
+
 * Số gọi nước: 0909733099
 
 * [Drive Tổng](https://drive.google.com/drive/folders/15vXPmg4tVUEufujScWvr2KJnV1XDeH--?usp=drive_link)
