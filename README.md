@@ -3,8 +3,8 @@
 ## I. Công việc hàng ngày
 
 Giờ làm việc: 
-* Ca 1: từ 10h00 tới 14h00.
-* Ca 2: từ 14h00 tới 18h00.
+* Ca 1: từ 12h00 tới 16h00.
+* Ca 2: từ 16h00 tới 20h00.
 
 1. - [ ] Dọn dẹp vệ sinh (đầu giờ, cuối giờ)
 
@@ -59,6 +59,7 @@ Giờ làm việc:
 | Sleeve (Đồng giá)   | 50,000    |
 | Album (Thường)   | 150,000    |
 | Album (Có dây kéo)   | 400,000    |
+| Sleeve Official Tri-brigade (100 cái)   | 300,000    |
 
 ### One Piece Card Game (OP)
 
@@ -78,23 +79,29 @@ Giờ làm việc:
 | Pack CYAC EN  | 100,000    |
 | Pack WISU EN  | 100,000    |
 | Pack BLMR EN  | 100,000    |
+| Pack LD10 EN  | 60,000    |
+| ----------- | ----------- |
 | Box SDCS EN  | 350,000    |
 | Box GFP2 EN  | 600,000    |
 | Box LC01 EN  | 1,000,000    |
+| Box LD10 EN  | 1,700,000    |
+| Box MP23 EN  | 700,000    |
 
 ## III. Các ghi chú quan trọng
 
 ### 1. Vấn đề đặt nước giải khát khi shop hết hàng:
 
-- Khi nào hết báo số lượng tồn kho trong shop cho " quản lý trực tiếp của nhân viên ca trực" (gọi tắt là **<Quản_lý>**) biết. **<Quản_lý>** sẽ nhắn số lượng nhập trong group chat để xác nhận nhập hàng và báo số lượng cụ thể cho đơn nhập.
+- Khi nào hết báo số lượng tồn kho trong shop cho " quản lý trực tiếp của nhân viên ca trực" (gọi tắt là **{Quản_lý}**) biết. **{Quản_lý}** sẽ nhắn số lượng nhập trong group chat để xác nhận nhập hàng và báo số lượng cụ thể cho đơn nhập.
 
-- Không tự ý gọi đặt khi chưa có TIN NHẮN xác nhận của **<Quản_lý>**.
+- Không tự ý gọi đặt khi chưa có TIN NHẮN xác nhận của **{Quản_lý}**.
 
-- Trong trường hợp nhân viên tự ý gọi đặt khi chưa có TIN NHẮN xác nhận của **<Quản_lý>** thì TỰ BỎ TIỀN TÚI ra trả.
+- Trong trường hợp nhân viên tự ý gọi đặt khi chưa có TIN NHẮN xác nhận của **{Quản_lý}** thì TỰ BỎ TIỀN TÚI ra trả.
 
 ## IV. Các thông tin thêm
 
 * Số gọi nước: 0909733099
+
+* [Hệ Thống POS](http://pos.kisara.vn)
 
 * [Drive Tổng](https://drive.google.com/drive/folders/15vXPmg4tVUEufujScWvr2KJnV1XDeH--?usp=drive_link)
     
