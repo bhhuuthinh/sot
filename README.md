@@ -68,9 +68,15 @@ Giờ làm việc:
 | Pack OP01 EN  | 150,000    |
 | Pack OP02 EN  | 150,000    |
 | Pack OP03 EN  | 150,000    |
+| Pack OP04 EN  | 150,000    |
+| Pack OP05 EN  | 150,000    |
 | Pack OP02 JP  | 80,000    |
 | Pack OP03 JP  | 80,000    |
-| ST03 Blue  | 500,000    |
+| ST03  | 500,000    |
+| ST07  | 500,000    |
+| ST08  | 500,000    |
+| ST09  | 500,000    |
+| ST10  | 1,000,000    |
 
 ### Yu-Gi-Oh! Trading Card Game (YG)
 
@@ -80,12 +86,20 @@ Giờ làm việc:
 | Pack WISU EN  | 100,000    |
 | Pack BLMR EN  | 100,000    |
 | Pack LD10 EN  | 60,000    |
+| Pack DUNE EN  | 100,000    |
+| Pack AGOV EN  | 100,000    |
+| Pack RA01 EN  | 150,000    |
+| Pack CR01 AE  | 55,000    |
 | ----------- | ----------- |
 | Box SDCS EN  | 350,000    |
 | Box GFP2 EN  | 600,000    |
 | Box LC01 EN  | 1,000,000    |
 | Box LD10 EN  | 1,700,000    |
 | Box MP23 EN  | 700,000    |
+| Box DUNE EN  | 2,000,000    |
+| Box AGOV EN  | 2,000,000    |
+| Box RC01 AE  | 1,200,000    |
+| Box RA01 EN  | 3,000,000    |
 
 ## III. Các ghi chú quan trọng
 
