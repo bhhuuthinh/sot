@@ -60,19 +60,29 @@ Giờ làm việc:
 | Album (Thường)   | 150,000    |
 | Album (Có dây kéo)   | 400,000    |
 | Sleeve Official Tri-brigade (100 cái)   | 300,000    |
+| Sleeve Official I:P Masquerena (50 cái)   | 200,000    |
 
 ### One Piece Card Game (OP)
 
-| Tên pack  | Giá   |
+| Tên sản phẩm  | Giá (1 Pack)   | Giá (1 Box)   |
+| ----------- | ----------- | ----------- |
+| OP01 EN  | 150,000    | 3,000,000    |
+| OP02 EN  | 150,000    | 3,000,000    |
+| OP03 EN  | 150,000    | 3,000,000    |
+| OP04 EN  | 150,000    | 3,000,000    |
+| OP05 EN  | 150,000    | 3,000,000    |
+| OP06 EN  | 150,000    | 3,200,000    |
+| OP02 JP  | 80,000    | 1,600,000    |
+| OP03 JP  | 80,000    | 1,600,000    |
+
+| Tên Structure Deck | Giá (1 Box) |
 | ----------- | ----------- |
-| Pack OP01 EN  | 150,000    |
-| Pack OP02 EN  | 150,000    |
-| Pack OP03 EN  | 150,000    |
-| Pack OP04 EN  | 150,000    |
-| Pack OP05 EN  | 150,000    |
-| Pack OP02 JP  | 80,000    |
-| Pack OP03 JP  | 80,000    |
-| ST03  | 500,000    |
+| ST01  | 700,000    |
+| ST02  | 700,000    |
+| ST03  | 700,000    |
+| ST04  | 700,000    |
+| ST05  | 700,000    |
+| ST06  | 700,000    |
 | ST07  | 500,000    |
 | ST08  | 500,000    |
 | ST09  | 500,000    |
@@ -80,26 +90,49 @@ Giờ làm việc:
 
 ### Yu-Gi-Oh! Trading Card Game (YG)
 
-| Tên pack  | Giá   |
+#### Tiếng Anh (EN)
+
+| Tên sản phẩm  | Giá (1 Pack)   | Giá (1 Box)   |
+| ----------- | ----------- | ----------- |
+| LD10  | 60,000    | 1,700,000    |
+| LED8  | 60,000    | 1,700,000    |
+| CYAC  | 100,000    | 2,000,000    |
+| WISU  | 100,000    | 2,000,000    |
+| TAMA  | 100,000    | 2,000,000    |
+| BLMR  | 100,000    | 2,000,000    |
+| DUNE  | 100,000    | 2,000,000    |
+| AGOV  | 100,000    | 2,000,000    |
+| PHNI  | 100,000    | 2,000,000    |
+| RA01  | 150,000    | 3,000,000    |
+
+| Tên Structure Deck | Giá (1 Box) |
 | ----------- | ----------- |
-| Pack CYAC EN  | 100,000    |
-| Pack WISU EN  | 100,000    |
-| Pack BLMR EN  | 100,000    |
-| Pack LD10 EN  | 60,000    |
-| Pack DUNE EN  | 100,000    |
-| Pack AGOV EN  | 100,000    |
-| Pack RA01 EN  | 150,000    |
-| Pack CR01 AE  | 55,000    |
+| SDCS  | 350,000    |
+| SDCK  | 350,000    |
+| SDAZ  | 400,000    |
+| GFP2  | 600,000    |
+| LC01  | 1,000,000    |
+| MP23  | 700,000    |
+
+#### Asian English (AE)
+
+| Tên sản phẩm  | Giá (1 Pack)   | Giá (1 Box)   |
+| ----------- | ----------- | ----------- |
+| Pack CR01 AE  | 55,000    | 1,200,000    |
+| Pack CR02 AE  | 55,000    | 1,250,000    |
+| Pack RC04 AE  | 120,000    | 1,400,000    |
+
+### Disney Lorcana (LO)
+
+| Tên sản phẩm  | Giá (1 Pack)   | Giá (1 Box)   |
+| ----------- | ----------- | ----------- |
+| Set 1  | 220,000    | 5,000,000    |
+| Set 2  | 200,000    | 4,200,000    |
+
+| Tên Structure Deck | Giá (1 Box) |
 | ----------- | ----------- |
-| Box SDCS EN  | 350,000    |
-| Box GFP2 EN  | 600,000    |
-| Box LC01 EN  | 1,000,000    |
-| Box LD10 EN  | 1,700,000    |
-| Box MP23 EN  | 700,000    |
-| Box DUNE EN  | 2,000,000    |
-| Box AGOV EN  | 2,000,000    |
-| Box RC01 AE  | 1,200,000    |
-| Box RA01 EN  | 3,000,000    |
+| Set 2 Amethyst and Steel  | 650,000    |
+| Set 2 Amber & Sapphire | 650,000    |
 
 ## III. Các ghi chú quan trọng
 
@@ -111,11 +144,33 @@ Giờ làm việc:
 
 - Trong trường hợp nhân viên tự ý gọi đặt khi chưa có TIN NHẮN xác nhận của **{Quản_lý}** thì TỰ BỎ TIỀN TÚI ra trả.
 
+### 2. Cách tra giá card single:
+
+> * Các Card Single sẽ Ưu tiền tra giá trên [Shopee](https://shopee.vn/thinhcuaban) của shop.
+> * Nếu không có thì ưu tiên số 2 là [Website của shop](https://kisara.vn/)
+> * Nếu cả 2 trang trên đều không có giá card cần tìm thì tiến hành tra giá trên các web bên dưới.
+
+#### Card Yu-Gi-Oh!:
+
+* Đối với card Tiếng Anh (EN) check giá [Troll and Toad](https://www.trollandtoad.com/) nếu **Out stock** thì check giá ở [TCGplayer](https://www.tcgplayer.com/)
+
+* Đối với card Tiếng Nhật (JP) check giá [bigweb](https://www.bigweb.co.jp/ja/products/yugioh)
+
+#### Card One Piece:
+
+* Đối với card Tiếng Anh (EN) check giá [TCGplayer](https://www.tcgplayer.com/) nếu **Out stock** thì check giá ở [Troll and Toad](https://www.trollandtoad.com/)
+
+#### Card Lorcana:
+
+* Đối với card Tiếng Anh (EN) check giá [TCGplayer](https://www.tcgplayer.com/) nếu **Out stock** thì check giá ở [Troll and Toad](https://www.trollandtoad.com/)
+
 ## IV. Các thông tin thêm
 
 * Số gọi nước: 0909733099
 
-* [Hệ Thống POS](http://pos.kisara.vn)
+* Số gọi ve chai: 0373394815
+
+* [Hệ Thống POS](http://admin.kisara.vn)
 
 * [Drive Tổng](https://drive.google.com/drive/folders/15vXPmg4tVUEufujScWvr2KJnV1XDeH--?usp=drive_link)
     
