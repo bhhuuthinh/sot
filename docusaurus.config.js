@@ -70,7 +70,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'https://static.kisara.vn/public/img/banner.jpgimg/docusaurus-social-card.jpg',
+      image: 'https://static.kisara.vn/public/img/banner.jpg',
       navbar: {
         title: '',
         logo: {
